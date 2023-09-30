@@ -4,6 +4,8 @@ Welcome to the repository for the **Medi Box** project! This individual project 
 
 ![Medi Box](MediBox.png)
 
+![NodeRed Dashboard](Dashboard.png)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
