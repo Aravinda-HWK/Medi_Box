@@ -2,7 +2,7 @@
 
 Welcome to the repository for the **Medi Box** project! This individual project showcases the design and development of a medical box, referred to as 'Medibox,' with the primary purpose of assisting patients in managing their medication schedules and ensuring the safe storage of medications in a controlled environment.
 
-![Medi Box](MediBox.jpg)
+![Medi Box](MediBox.png)
 
 ## Table of Contents
 
